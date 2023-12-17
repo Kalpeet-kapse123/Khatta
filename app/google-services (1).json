@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "9423481350",
+    "firebase_url": "https://khata-33ef9-default-rtdb.firebaseio.com",
+    "project_id": "khata-33ef9",
+    "storage_bucket": "khata-33ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9423481350:android:408d005bc879cb4a67f187",
+        "android_client_info": {
+          "package_name": "com.kalpeet.khatta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZDHV7Fe_XuvPUk58qOkyIP510J40kpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
